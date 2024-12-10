@@ -1,9 +1,6 @@
-##ⓘ SCRIPT TERMUX SPAM PAIRING CODE
+## ⓘ SCRIPT TERMUX SPAM PAIRING CODE
 
-
-
-
-#TUTORIAL MENJALANKAN SCRIPT SPAM PARING CODE
+# TUTORIAL MENJALANKAN SCRIPT SPAM PARING CODE
 
 ## A. Cara Instalasinya 
 1. Silahkan buka aplikasi Termux, lalu kemudian jalankan perintah ini
@@ -44,7 +41,7 @@ yarn install
 ```
 ## C. Menjalankan Script
 
-#8. Memulai Program Jalankan script dengan perintah Ini 
+8. Memulai Program Jalankan script dengan perintah Ini 
 ```
 npm start
 ```
@@ -54,9 +51,9 @@ npm start
 ## Catatan 🗣️
 Pastikan koneksi internet  lo stabil selama proses instalasi dan menjalankan script. Jika mengalami kendala hubungi Owner`
 
-#[ Semoga berhasil! (⁠灬⁠º⁠‿⁠º⁠灬⁠)⁠♡ ]
+# [ Semoga berhasil! (⁠灬⁠º⁠‿⁠º⁠灬⁠)⁠♡ ]
 
 
 
 
-©® JeeyDev 
+©® Jeeyhosting 
