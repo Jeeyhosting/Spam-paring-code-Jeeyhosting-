@@ -1,4 +1,5 @@
-![IMG-20241201-WA0073(1)](https://github.com/user-attachments/assets/01295ea3-0a00-46fe-9c60-95056f5755f5)
+
+
 
 
 ## ⓘ TUTORIAL CARA MENJALAN SCRIPT SPAM PAIRING CODE  MENGUNAKAN TERMUX
