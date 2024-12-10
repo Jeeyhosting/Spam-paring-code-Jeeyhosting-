@@ -1,3 +1,5 @@
+![Uploading Screenshot_20241211_030514.jpg…]()
+
 ## ⓘ TUTORIAL CARA MENJALAN SCRIPT SPAM PAIRING CODE  MENGUNAKAN TERMUX
 
 ## A. Cara Instalasinya 
