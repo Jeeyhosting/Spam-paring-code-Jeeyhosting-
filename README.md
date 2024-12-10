@@ -1,4 +1,4 @@
-## ⓘ SCRIPT TERMUX SPAM PAIRING CODE TUTORIAL MENJALANKAN SCRIPT SPAM PARING CODE
+## ⓘ TUTORIAL CARA MENJALAN SCRIPT SPAM PAIRING CODE  MENGUNAKAN TERMUX
 
 ## A. Cara Instalasinya 
 1. Silahkan buka aplikasi Termux, lalu kemudian jalankan perintah ini
