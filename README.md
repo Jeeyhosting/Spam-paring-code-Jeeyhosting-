@@ -1,20 +1,20 @@
-##ⓘ SCRIPT TERMUX SPAM PAIRING CODE
+## ⓘ SCRIPT TERMUX SPAM PAIRING CODE
 
 
 
 
-##TUTORIAL MENJALANKAN SCRIPT SPAM PARING CODE
+## TUTORIAL MENJALANKAN SCRIPT SPAM PARING CODE
 
-##Persiapan Awalnya 📢
+## Persiapan Awalnya 📢
 
 
-#Update dan Upgrade Paket
+# Update dan Upgrade Paket
 
-#1. Sebelum menjalankan Script, Pastikan Semua Paket Di Termux Diperbarui. Jalankan Perintah Ini [ ! ]
-`pkg upgrade -y && pkg update -y`
+# 1. Sebelum menjalankan Script, Pastikan Semua Paket Di Termux Diperbarui. Jalankan Perintah Ini [ ! ]
+'pkg upgrade -y && pkg update -y'
 
 #2. Memberikan Izin Akses Storage Agar Termux dapat mengakses penyimpanan perangkat, jalankan perintah ini [ ! ]
-`Termux-setup-storage`
+'''Termux-setup-storage'''
 
 
 
