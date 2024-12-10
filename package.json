@@ -1,12 +1,12 @@
 {
-  "name": "PAEDULZ",
+  "name": "JEEYHOSTING",
   "version": "1.0.0",
-  "description": "PAEDULZ",
+  "description": "JEEYHOSTING",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
-  "author": "PAEDULZ",
+  "author": "MOHAMADABUBAKAR",
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
