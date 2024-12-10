@@ -1,24 +1,25 @@
-# ⓘ Script Termux Spam Pairing Code  
+### ⓘ Script Termux Spam Pairing Code  
 
-Selamat datang di **Script Spam Pairing Code**!  
-Panduan ini akan memandu Anda menjalankan script di Termux secara rinci.  
+Ikuti langkah-langkah berikut untuk menjalankan script ini dengan mudah di Termux.  
 
 ---
 
-## 📢 Langkah-Langkah Menjalankan Script  
+## 📢 Tutorial Menjalankan Script Spam Pairing Code  
 
 ### 1. Persiapan Awal  
 
-#### 🔄 **Update dan Upgrade Paket**  
-Pastikan semua paket di Termux diperbarui. Jalankan perintah berikut satu per satu:  
+#### 🔄 Langkah 1: Update dan Upgrade Paket  
+Jalankan perintah berikut untuk memperbarui semua paket di Termux:  
 ```bash
-pkg update -y
+pkg update
 
-pkg upgrade -y
+Setelah itu, lanjutkan dengan perintah:
 
-📂 Memberikan Izin Akses Storage
+pkg upgrade
 
-Agar Termux dapat mengakses penyimpanan perangkat Anda, jalankan perintah:
+📂 Langkah 2: Memberikan Izin Akses Storage
+
+Agar Termux dapat mengakses penyimpanan perangkat Anda, jalankan perintah berikut:
 
 termux-setup-storage
 
@@ -29,29 +30,38 @@ Saat diminta, izinkan akses penyimpanan di perangkat Anda.
 
 2. Instalasi dan Pengaturan Awal
 
-📥 Instalasi Yarn
+📥 Langkah 3: Instalasi Yarn
 
-Yarn digunakan untuk mengelola dependensi dalam project. Instal dengan perintah berikut:
+Yarn digunakan untuk mengelola dependensi. Instal Yarn dengan perintah berikut:
 
-pkg install yarn -y
+pkg install yarn
 
-📥 Instalasi Git
+📥 Langkah 4: Instalasi Git
 
-Git diperlukan untuk mengunduh repository dari GitHub. Instal dengan perintah berikut:
+Git diperlukan untuk mengunduh repository. Jalankan perintah berikut untuk menginstalnya:
 
-pkg install git -y
+pkg install git
 
-📥 Clone Repository
+📥 Langkah 5: Clone Repository
 
-Unduh repository project menggunakan Git. Jalankan perintah:
+Unduh repository project menggunakan Git. Gunakan perintah berikut:
 
 git clone https://github.com/Jeeyhosting/Spam-paring-code-Jeeyhosting-
 
-📂 Masuk ke Direktori Project
+📂 Langkah 6: Masuk ke Direktori Project
 
-Setelah repository berhasil diunduh, pindah ke direktori project. Jalankan perintah berikut:
+Pindah ke direktori project yang telah diunduh:
 
 cd Spam-paring-code-Jeeyhosting-
 
-⚙️ **Instalasi Dependensi
+⚙️ Langkah 7: Instalasi Dependensi
+
+Instal semua dependensi yang dibutuhkan project menggunakan Yarn:
+
+yarn install
+
+
+---
+
+3. Menjalankan Script
 
