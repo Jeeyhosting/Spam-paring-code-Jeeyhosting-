@@ -11,7 +11,7 @@ pkg upgrade -y && pkg update -y
 ```
 2.Memberikan Izin Akses Storage Agar Termux dapat mengakses penyimpanan perangkat, jalankan perintah ini
 ```
-Termux-setup-storage
+termux-setup-storage
 ```
 
 
